@@ -1,8 +1,7 @@
 const stats = [
-  { label: "Total Kapasitas Terpasang", value: "120 MW" },
-  { label: "Proyek Selesai", value: "42+" },
-  { label: "Provinsi Terjangkau", value: "12" },
-  { label: "Tahun Pengalaman", value: "15" },
+  { label: "Total Kapasitas Terpasang", value: "14.5 MW" },
+  { label: "Proyek Selesai", value: "4" },
+  { label: "Tahun Pengalaman", value: "1" },
 ];
 
 export default function StatsBar() {

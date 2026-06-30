@@ -11,9 +11,9 @@ export default function HeroSection() {
         isMainHeading
       />
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-        <Button href="/proyek">Lihat Portofolio Proyek</Button>
-        <Button href="/kontak" variant="secondary">
-          Konsultasikan Kebutuhan Anda
+        <Button className="hover:bg-white hover:text-[#064e3b]" href="/tentang-kami">Tentang Kami</Button>
+        <Button href="/proyek" variant="secondary">
+          Pengalaman Proyek
         </Button>
       </div>
     </div>
